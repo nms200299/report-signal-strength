@@ -1,5 +1,4 @@
 # report-signal-strength
-● BoB 9기 공통교육 네트워크 과제
 
 ● 특정 MAC의 신호 세기를 볼 수 있는 프로그램임.
 
